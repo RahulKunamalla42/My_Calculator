@@ -1,0 +1,30 @@
+button{
+    width:80px;
+    border: none;
+    outline:none;
+    cursor:pointer;
+}
+.digit{
+    border:none;
+    outline:none;
+    height:80px;
+    border-right: solid 2px black;
+    border-bottom:solid 2px black;
+}
+.operater{
+    border:none;
+    outline:none;
+    height:80px;
+    border-bottom:solid 2px black;
+    background-color: orange;
+    color: #ffff;
+}
+.fun{
+    background-color: gray;
+    color: #ffff;
+    border:none;
+    outline:none;
+    height:80px;
+    border-right: solid 2px black;
+    border-bottom:solid 2px black;
+}
